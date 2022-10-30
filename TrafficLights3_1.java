@@ -1,10 +1,10 @@
-package stepic3BasicsJava3_1;
+package stepic3BasicsJava3;
 
 import java.awt.*;
 import java.awt.geom.*;
 import javax.swing.*;
 
-public class TrafficLights {
+public class TrafficLights3_1 {
 
 	public static void main(String[] args) {
 		JFrame jFrame = getFrame();
